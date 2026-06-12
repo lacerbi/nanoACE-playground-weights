@@ -1,7 +1,7 @@
 # nanoACE Playground Weights
 
 This repository stores the exported browser model weights for the
-[nanoACE](https://github.com/lacerbi/nanoACE) web playground.
+[nanoACE](https://github.com/acerbilab/nanoACE) web playground.
 
 The main nanoACE repository keeps the source code, examples, and TypeScript
 playground. The weight blobs live here separately so normal nanoACE clones stay
