@@ -34,3 +34,8 @@ The weights are exported as little-endian IEEE float16 blobs plus JSON manifests
 They are intended for the nanoACE playground's in-browser TypeScript forward
 pass, not as general-purpose model checkpoints.
 
+The full-precision **source checkpoints** these blobs are derived from (the
+`.pt` files loadable back into the example scripts, including the two extension
+fine-tunes) are published separately on the Hugging Face Hub at
+[`lacerbi/nanoACE`](https://huggingface.co/lacerbi/nanoACE).
+
